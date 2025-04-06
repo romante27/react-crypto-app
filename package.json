@@ -9,8 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romante27/react-crypto-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/romante27/react-crypto-app/issues"
+  },
+  "homepage": "https://github.com/romante27/react-crypto-app#readme",
+  "description": ""
 }
